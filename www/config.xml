@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.sctv"
-        version   = "1.0.0">
+        version   = "99.99.99">
 
     <name>SportsCanadaTV</name>
 
